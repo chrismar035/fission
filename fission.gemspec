@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/thbishop/fission"
   s.summary     = %q{Command line tool to manage VMware Fusion VMs}
   s.description = %q{A simple utility to manage VMware Fusion VMs from the command line}
+  s.license     = 'MIT'
 
   s.rubyforge_project = "fission"
 
